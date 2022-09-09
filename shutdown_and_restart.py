@@ -1,7 +1,3 @@
-from logging import shutdown
-from multiprocessing.spawn import import_main_path
-
-
 import os
 
 print('yes or no')
